@@ -1,6 +1,4 @@
-🏠 Main Folder – README.md
-(Place this in your root project folder)
-# Parallel Computing Project (AY 2025–26)
+# Parallel Computing
 
 This repository contains the **Mid Sem Assessment** and **Teachers’ Assessment** work for the Department Elective subject **Parallel Computing** (Third Year CSE).
 
@@ -42,21 +40,3 @@ It includes two main parts:
 - GCC (with AVX support)
 - SSH for communication
 - Python (optional, for plotting or testing)
-
----
-
-## 📆 Deadlines
-| Task | Deadline |
-|------|-----------|
-| Part 1 & Part 2 Demo | **16th October 2025** |
-| Report & Presentation Submission | **6th November 2025** |
-
----
-
-## 📂 Folder Structure
-. ├── README.md ├── part1/ │ ├── matrix_mpi.c │ ├── hosts │ └── README.md ├── part2/ │ ├── vectorized_program.c │ └── README.md └── report/
----
-
-## 🧾 License
-This project is part of the **COEP Technological University** academic work and is intended for educational purposes.
-
