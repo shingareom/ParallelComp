@@ -4,8 +4,8 @@ This repository contains the **Mid Sem Assessment** and **Teachers’ Assessment
 
 It includes two main parts:
 
-1. **Part 1 – MPI Cluster Environment Setup and Matrix Multiplication**
-2. **Part 2 – Vectorization using AVX (Advanced Vector Extensions)**
+1. [**Part 1 – MPI Cluster Environment Setup and Matrix Multiplication**](part1/README.md)
+2. [**Part 2 – Vectorization using AVX (Advanced Vector Extensions)**](part2/README.md)
 
 ---
 
